@@ -6,7 +6,6 @@
 "Uneasy lies the ____ that wears the ____"
 "ask for me ___, and you shall find me a ___ man."
 "___ has a ___ and ___ look; He ___ too much: such men are ___"
-"Lord, what ___ these ___ be!"
 "He that hath a ___ is more than a youth; and he that hath no beard is less than a ___."
 "Thus ___ does make cowards of us all"
 "Lord, what fools these ___ be!"
