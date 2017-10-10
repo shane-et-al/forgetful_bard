@@ -1,5 +1,3 @@
-# Forgetful Bard
-
 "Now is the ____ of our discontent made glorious ____ by this ____ of ____"
 "The quality of ____ is not ____"
 "Something ___ this way comes."
