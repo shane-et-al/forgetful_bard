@@ -2,7 +2,7 @@
 "The quality of ____ is not ____"
 "Something ___ this way comes."
 "____ die many times before their deaths; the ____ never taste of death but once."
-"____, thy name is ____" 
+"____, thy name is ____"
 "Uneasy lies the ____ that wears the ____"
 "ask for me ___, and you shall find me a ___ man."
 "___ has a ___ and ___ look; He ___ too much: such men are ___"
@@ -17,3 +17,4 @@
 "___, ___, ___, lend me your ___; I come to ___ ___, not to ___ him."
 "___ and ___ have such seething ___"
 "So ___ ___ unto you all. Give me your ___, if we be ___, And ___ shall restore ___."
+"Lord, what fools these ___ be"
