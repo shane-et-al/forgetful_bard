@@ -1,11 +1,22 @@
 # Forgetful Bard
 
-"Now is the winter of our discontent made ... 
-
-"The quality of mercy is not ...
-
-"Cowards die many times before their deaths; the valiant never taste ...
-
-"Frailty, thy name is ... 
-
-"Uneasy lies the head that wears ...
+"Now is the ____ of our discontent made glorious ____ by this ____ of ____"
+"The quality of ____ is not ____"
+"Something ___ this way comes."
+"____ die many times before their deaths; the ____ never taste of death but once."
+"____, thy name is ____" 
+"Uneasy lies the ____ that wears the ____"
+"ask for me ___, and you shall find me a ___ man."
+"___ has a ___ and ___ look; He ___ too much: such men are ___"
+"Lord, what ___ these ___ be!"
+"He that hath a ___ is more than a youth; and he that hath no beard is less than a ___."
+"Thus ___ does make cowards of us all"
+"Lord, what fools these ___ be!"
+"O villain! Thou wilt be condemned into everlasting ___ for this."
+"Double, double ___ and ___; ___ ___ and ___ ___."
+"___, and ___, and ____"
+"Hath not a Jew ___? Hath not a Jew ___, ___, ___, ___, ___, ___?"
+"O, happy ___! This is thy ___;"
+"___, ___, ___, lend me your ___; I come to ___ ___, not to ___ him."
+"___ and ___ have such seething ___"
+"So ___ ___ unto you all. Give me your ___, if we be ___, And ___ shall restore ___."
